@@ -1,7 +1,6 @@
 package creational.factory;
 
-public interface VehicleFactory {
-	
+public interface VehicleFactory {	
 	Vehicle createVehicle();
 
 }

@@ -1,7 +1,6 @@
 package creational.factory;
 
-public class Client {
-	
+public class Client {	
 	private Vehicle vehicle;
 	
 	public Client(VehicleFactory factory) {
